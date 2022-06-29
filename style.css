@@ -25,7 +25,11 @@ header{
       margin: 0 auto;
     }
      
-.headname{
-    color: white;
-}    
+.headname1{
+    color: rgb(184, 56, 56);
+    font-size: 30px ;
+  }    
      
+.headname2{
+  color: white;
+}    

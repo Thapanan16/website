@@ -39,3 +39,8 @@ header{
  height: 320px;
  padding: auto;
 }
+
+.maps{
+  border: 1px solid rgb(100, 100, 117) ;
+  height: 300px;
+}

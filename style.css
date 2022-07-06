@@ -44,3 +44,8 @@ header{
   border: 1px solid rgb(100, 100, 117) ;
   height: 300px;
 }
+
+.top10{
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+}

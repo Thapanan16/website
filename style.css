@@ -32,4 +32,10 @@ header{
      
 .headname2{
   color: white;
-}    
+}  
+
+.graphic{
+  background-image: url("images/chantaburi-cover.jpeg") ;
+ height: 320px;
+ padding: auto;
+}
